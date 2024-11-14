@@ -16,5 +16,5 @@ Easy way for install Mikrotik’s Cloud Hosted Router on any Cloud VM
 For MikroTik 7.12.1
 
 ```bash
-  bash -c "$(curl -L https://raw.githubusercontent.com/ipcloudflaretamiz/Install-MikroTik-CHR-on-VPS/main/mik78.sh)"
+  bash -c "$(curl -L https://raw.githubusercontent.com/ipcloudflaretamiz/mikro/main/mik78.sh)"
 ```
